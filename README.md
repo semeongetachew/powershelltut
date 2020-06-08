@@ -9,25 +9,24 @@ The purpose of this repo is to aid new beginners in learning more about the vari
 
 - [About](#About)
 - [Blogs](#Blogs)
-- [Youtube Channels](#YoutubeChannels)
+- [Youtube Vidz](#YoutubeVidz)
 - [Books](#Books)
 - [Support](#support)
 - [Contributing](#contributing)
 
 
 
-
 ## Blogs
+- https://devblogs.microsoft.com/powershell/
+- https://www.reddit.com/r/PowerShell/
+- https://www.planetpowershell.com/preview
 
 
 
-
-
-## Books
-
-
-
-## Youtube Channels
+## Youtube Vids
+- https://www.youtube.com/watch?v=usiqXcWb978
+- https://www.youtube.com/watch?v=FiTZgpRpWv0
+- https://www.youtube.com/watch?v=aNusQ7S7eSo
 
 ## Support
 
