@@ -3,14 +3,13 @@
 
 # Powershelltut
 
-The purpose of this repo is to aid new beginners in learning more about the various solutions that Powershell provides.
+The purpose of this repo is to aid new beginners in learning more about the various solutions that Windows Powershell provides. PowerShell is a shell that was created initially for automation by the Microsoft team. It's open source can be used on all major platforms. 
 
 ## Table of Contents
 
 - [About](#About)
 - [Blogs](#Blogs)
 - [Youtube Vidz](#YoutubeVidz)
-- [Books](#Books)
 - [Support](#support)
 - [Contributing](#contributing)
 
